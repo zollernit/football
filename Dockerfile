@@ -1,4 +1,4 @@
-# 2. FIX Docker
+# 2. Feture und Feature von Docker file
 # FIX
 
 ARG DOCKER_BASE
